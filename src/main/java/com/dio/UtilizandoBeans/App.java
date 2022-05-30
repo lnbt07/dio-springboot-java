@@ -13,7 +13,7 @@ public class App {
         System.out.println(livro);
 
         livro.setNome("Acotar");
-        livro.setCodigo("ACOTAR01");
+        livro.setCodigo("AC1457S");
 
         Autor autor = factory.getBean(Autor.class);
         autor.setNome("Sarah J Maas");
